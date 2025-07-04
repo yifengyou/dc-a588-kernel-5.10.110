@@ -1,0 +1,18 @@
+config GobiUSBNet
+   
+             bool "GobiUSBNet driver"
+             default y
+             help
+			 
+config QMI
+   
+			bool "QMI driver"
+            default y
+            help	
+
+config QMIDevice
+   
+            bool "QMIDevice driver"
+            default y
+            help	
+

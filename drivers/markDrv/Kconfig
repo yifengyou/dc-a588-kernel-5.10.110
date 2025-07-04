@@ -1,0 +1,7 @@
+#
+# markDrv configuration by 20211122
+#
+source "drivers/gpio/Kconfig"
+
+
+
